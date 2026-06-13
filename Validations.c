@@ -3,6 +3,7 @@
 #include<ctype.h>
 #include"contact.h"
 
+//it done
 char *name_validation(char *name)  // validation for name
 {
     int count = 0;
